@@ -1,1 +1,3 @@
-# quiz-react
+# React Quiz
+
+This is a basic quiz project using react.
